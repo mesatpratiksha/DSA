@@ -1,3 +1,4 @@
+
 public class linear{
     public static void main(String[] args){
         int []  nums={2,4,5,89,63,12};
